@@ -1,0 +1,33 @@
+header {
+  background-color: #050b2d;
+}
+.nav-item:hover, .active {
+  background: #1277c0;
+}
+.nav-item {
+  padding: 5px;
+}
+.nav-link, .nav-link:hover {
+  color: #FFFFFF;
+  font: bold 14px sans-serif;
+}
+ul {
+  background-color: #002676;
+}
+}
+.py-auto, .border-top {
+  margin-right: 1170px;
+}
+p, p2 {
+  font: bold 20px;
+  font-family: cursive;
+}
+footer {
+  background-color:  #050b2d;
+}
+p2 {
+  margin: 100px;
+}
+.border-top {
+  margin-top: 80px;
+}
